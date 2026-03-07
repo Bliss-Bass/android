@@ -44,7 +44,7 @@
   <project path="kernel/x86/zenith" name="kernel-zenith" remote="ag-github" sync-s="true" revision="6.15" />
   <project path="external/kernel-drivers" name="exTernal_kernel-drivers" sync-s="true" remote="ag-github" revision="6.6" />
   <project path="external/kernel-drivers-zenith" name="external_keRnel-drivers" sync-s="true" remote="ag-github" revision="zenith" />
-  <project path="prebuilts/clang/host/linux-x86/clang-r536225" name="vermouth/android_prebuilts_clang_host_linux-x86_clang-r536225" remote="gl" revision="14.0" />
+  <project path="prebuilts/clang/host/linux-x86/clang-r547379" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r547379" remote="gl" revision="15.0" />
 
   <!-- Media HAL & VAAPI drivers -->
   <project path="external/stagefright-plugins" name="external_stagefright-plugins" remote="ag-github" revision="14-x86" />
