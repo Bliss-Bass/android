@@ -49,7 +49,7 @@
   <project path="external/libva-utils" name="external_libva-utils" remote="ag-github" revision="14-x86" />
   <project path="hardware/intel/common/libva" name="hardware_intel_common_libva" remote="ag-github" revision="14-x86" />
   <project path="hardware/intel/common/gmmlib" name="hardware_intel_common_gmmlib" remote="ag-github" revision="latest" />
-  <project path="hardware/intel/common/media-driver" name="hardware_intel_common_media-driver" remote="ag-github" revision="24.4" />
+  <project path="hardware/intel/common/media-driver" name="hardware_intel_common_media-driver" remote="ag-github" revision="25.4" />
   <project path="hardware/intel/common/vaapi" name="platform_hardware_intel_common_vaapi" remote="ag-github" revision="14-x86" />
 
   <!-- Misc -->
