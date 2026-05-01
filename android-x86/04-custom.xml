@@ -4,6 +4,6 @@
   <project path="bootable/aaropa" name="bootable_aaropa" remote="los-tv-x86" />
 
   <!-- Device tree -->
-  <project path="device/generic/x86_64_tv" name="android_device_generic_x86_64_tv" remote="los-tv-x86" sync-s="true" />
+  <project path="device/generic/x86_64_tablet" name="Bliss-Bass/android_device_generic_x86_64_tablet" remote="ghub" revision="lineage-21.0" sync-s="true" />
 
 </manifest>
